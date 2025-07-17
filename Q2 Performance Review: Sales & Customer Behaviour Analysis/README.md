@@ -1,0 +1,1 @@
+This python project analyse the Q2 performance review for Green Cart Ltd which is a growing UK-based e-commerce company specializing in eco-friendly household products. The main goal of this analysis was to investigate sales and customer behavior patterns across various regions and product lines.
