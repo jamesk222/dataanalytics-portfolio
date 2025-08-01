@@ -1,5 +1,6 @@
 Tableau Public Link To Project:
 https://public.tableau.com/app/profile/jamal.shah7616/viz/TechHubRetail2025StrategicPlanningReport/Dashboard1?publish=yes
+
 TechHub Retail: 2025 Strategic Planning Report
 1. Introduction
 TechHub Retail, a burgeoning UK-based online electronics retailer, has experienced significant growth over the past 18 months. However, this rapid expansion has outpaced the development of robust, data-driven analytical capabilities. In the absence of comprehensive insights, the company faces a critical challenge in formulating a data-informed strategy for 2025. This report addresses that need by presenting a detailed analysis of sales, customer, and product data to identify growth opportunities and inform strategic decision-making.
