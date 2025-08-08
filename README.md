@@ -7,16 +7,16 @@ My Core Toolkit:
 
 Programming: Python (Pandas, NumPy, Scikit-learn)
 
-Databases: SQL
+Databases: SQL, MySQL WorkBench, MySQL Server Studio Management
 
-Business Intelligence & Visualization: Power BI, Tableau Excel (Advanced)
+Business Intelligence & Visualization: Power BI, Tableau, Excel (Advanced)
 
-Statistical Methods: Hypothesis Testing, Regression Analysis, Time Series, A/B Testing
+Statistical Methods and Machine Learning: Hypothesis Testing, Regression Analysis, Time Series, A/B Testing
 
 Modeling: Predictive Modeling, Regression, Classification
 
 Portfolio Projects
-This repository showcases a selection of my data analytics projects, demonstrating my ability to apply diverse tools and methodologies to solve real-world business problems. Each project folder contains its own README.md with detailed explanations, technical approaches, and key findings.
+This repository showcases a selection of my data analytics and data science projects, demonstrating my ability to apply diverse tools and methodologies to solve real-world business problems. Each project folder contains its own README.md with detailed explanations, technical approaches, and key findings.
 
 Let's Connect!
 I'm always eager to discuss data, explore potential collaborations, or share insights. Feel free to reach out!
