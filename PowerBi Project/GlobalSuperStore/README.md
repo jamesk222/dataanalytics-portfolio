@@ -1,4 +1,5 @@
 Executive Summary
+
 This report provides a high-level overview of our company's sales performance from 2011 to 2014, with a focus on profitability, regional trends, customer behavior, and delivery efficiency. The analysis is based on data from our Global Superstore operations, designed to give a quick, clear picture of our business health. Our goal is to identify key trends and areas for improvement, helping us make better decisions to drive future growth.
 
 Key Performance Indicators (KPIs): A Snapshot of Business Health
